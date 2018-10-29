@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Recycler View Demo</string>
+
+    <string-array name="recipe_title" id="@+id/recipe_title">
+        <item>
+            Kale/Lemon Sandwiches
+        </item>
+        <item>
+            Mango-Lime Bean Salad
+        </item>
+        <item>
+            Sweet Potato and Lentil Soup with Shiitake Mushrooms
+        </item>
+        <item>
+            Lime Mousse
+        </item>
+        <item>
+            Broiled Tilapia Parmesan
+        </item>
+        <item>
+            Kale/Lemon Sandwiches
+        </item>
+        <item>
+            Mango-Lime Bean Salad
+        </item>
+        <item>
+            Sweet Potato and Lentil Soup with Shiitake Mushrooms
+        </item>
+        <item>
+            Lime Mousse
+        </item>
+        <item>
+            Broiled Tilapia Parmesan
+        </item>
+        <item>
+            Kale/Lemon Sandwiches
+        </item>
+        <item>
+            Mango-Lime Bean Salad
+        </item>
+        <item>
+            Sweet Potato and Lentil Soup with Shiitake Mushrooms
+        </item>
+        <item>
+            Lime Mousse
+        </item>
+        <item>
+            Broiled Tilapia Parmesan
+        </item>
+    </string-array>
+
+    <string-array name="recipe_description" id="@+id/recipe_description">
+        <item>
+            This sandwich is stunningly delicious and tastes as good as it is healthy. Any greens of choice will work. The lemon adds an almost sweet taste. Be generous with it!
+        </item>
+        <item>
+            Everyone loves this, so double or even triple the recipe! It vanishes in a flash, and also works well as a salsa. It really is our all-time favorite summer salad.
+        </item>
+        <item>
+            This soup is so good Essy and I ate it ALL the first time I made it. If someone is hesitant about plant-based food, this has to be a convincer.
+        </item>
+        <item>
+            This is FABULOUS alone, topped with fruit of any kind or as a frosting on cake. It is fast to make at the last minute. Use more or less lime according to taste.
+        </item>
+        <item>
+            Flavorful recipe for this farm raised fish that is easy and done in minutes! The fish is broiled with a creamy cheese coating for an impressive flavor.
+        </item>
+        <item>
+            This sandwich is stunningly delicious and tastes as good as it is healthy. Any greens of choice will work. The lemon adds an almost sweet taste. Be generous with it!
+        </item>
+        <item>
+            Everyone loves this, so double or even triple the recipe! It vanishes in a flash, and also works well as a salsa. It really is our all-time favorite summer salad.
+        </item>
+        <item>
+            This soup is so good Essy and I ate it ALL the first time I made it. If someone is hesitant about plant-based food, this has to be a convincer.
+        </item>
+        <item>
+            This is FABULOUS alone, topped with fruit of any kind or as a frosting on cake. It is fast to make at the last minute. Use more or less lime according to taste.
+        </item>
+        <item>
+            Flavorful recipe for this farm raised fish that is easy and done in minutes! The fish is broiled with a creamy cheese coating for an impressive flavor.
+        </item>
+        <item>
+            This sandwich is stunningly delicious and tastes as good as it is healthy. Any greens of choice will work. The lemon adds an almost sweet taste. Be generous with it!
+        </item>
+        <item>
+            Everyone loves this, so double or even triple the recipe! It vanishes in a flash, and also works well as a salsa. It really is our all-time favorite summer salad.
+        </item>
+        <item>
+            This soup is so good Essy and I ate it ALL the first time I made it. If someone is hesitant about plant-based food, this has to be a convincer.
+        </item>
+        <item>
+            This is FABULOUS alone, topped with fruit of any kind or as a frosting on cake. It is fast to make at the last minute. Use more or less lime according to taste.
+        </item>
+        <item>
+            Flavorful recipe for this farm raised fish that is easy and done in minutes! The fish is broiled with a creamy cheese coating for an impressive flavor.
+        </item>
+    </string-array>
+
+</resources>
